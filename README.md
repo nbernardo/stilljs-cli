@@ -1,2 +1,2 @@
 ### StillJS CLI
-This is the CLI tool for StillJS Framework
+THIS REPOSITORY WAS MOVED TO https://github.com/still-js
